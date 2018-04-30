@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 
@@ -146,9 +145,8 @@ instructions to copy files to a new location to get picked up by the IDE, but
 that's just a guess.
 
 One last note here: regardless of the IDE used, every submitted project must
-still be compilable with cmake and make./
-||||||| merged common ancestors
-=======
+still be compilable with cmake and make.
+
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
    
@@ -282,5 +280,4 @@ instructions to copy files to a new location to get picked up by the IDE, but
 that's just a guess.
 
 One last note here: regardless of the IDE used, every submitted project must
-still be compilable with cmake and make./
->>>>>>> fcc97984c7ff682ac9463e75cc719c7ed1e3ef3e
+still be compilable with cmake and make.
